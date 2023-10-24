@@ -1,6 +1,6 @@
-package com.devsuperior.aula.repositories;
+package com.tads4.aula.repositories;
 
-import com.devsuperior.aula.entities.Person;
+import com.tads4.aula.entities.Person;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface PersonRepository extends JpaRepository<Person, Long> {

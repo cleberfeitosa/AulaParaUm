@@ -1,4 +1,4 @@
-package com.devsuperior.aula;
+package com.tads4.aula;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

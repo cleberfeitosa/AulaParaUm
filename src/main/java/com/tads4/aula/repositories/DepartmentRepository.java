@@ -1,6 +1,6 @@
-package com.devsuperior.aula.repositories;
+package com.tads4.aula.repositories;
 
-import com.devsuperior.aula.entities.Department;
+import com.tads4.aula.entities.Department;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 public interface DepartmentRepository extends JpaRepository<Department, Long> {

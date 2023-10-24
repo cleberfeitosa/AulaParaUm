@@ -1,4 +1,4 @@
-package com.devsuperior.aula.entities;
+package com.tads4.aula.entities;
 
 import jakarta.persistence.*;
 
